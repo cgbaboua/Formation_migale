@@ -1,4 +1,5 @@
 # Formation_migale
 
-- one two one two this is a test
-- second test
+ One two one two this is a test.
+ Second test.
+ 
